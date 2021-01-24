@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.NervousTastyCar", "002.NervousTastyCar.csproj", "{53D544B1-129A-42AB-8041-B5B3859A7B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.Generics", "001.Generics\001.Generics.csproj", "{78908C8B-80CA-41D7-BC33-08A4241EEC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D544B1-129A-42AB-8041-B5B3859A7B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D544B1-129A-42AB-8041-B5B3859A7B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D544B1-129A-42AB-8041-B5B3859A7B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D544B1-129A-42AB-8041-B5B3859A7B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78908C8B-80CA-41D7-BC33-08A4241EEC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78908C8B-80CA-41D7-BC33-08A4241EEC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78908C8B-80CA-41D7-BC33-08A4241EEC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78908C8B-80CA-41D7-BC33-08A4241EEC64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB211A1F-F469-4675-9114-ADD5FA4D656A}
+	EndGlobalSection
+EndGlobal
